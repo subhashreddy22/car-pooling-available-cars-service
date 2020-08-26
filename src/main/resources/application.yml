@@ -1,0 +1,22 @@
+#The port on which the application will run
+server:
+  port: 8080
+
+#The map which contains location as key and car list as value
+availableCarsMap:
+  Germany:
+    - AMG S 63 Cabrio
+    - AMG C 63 S
+    - AMG E 53
+  Portugal:
+    - AMG G 63
+    - AMG S 65 Coupe
+    - AMG GT 63s
+  UK: 
+    - AMG GTR
+    - G 500
+    - GLA 180
+  Turkey:
+    - GLA 200
+    - GLA 250
+    
